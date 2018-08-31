@@ -1,2 +1,2 @@
-# lab1lejos
-lab1 lejos
+# Lab lejos
+Lab lejos
